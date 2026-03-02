@@ -1,13 +1,9 @@
 package p_104_maximum_depth_of_binary_tree
 
+import TreeNode
 import kotlin.math.max
 
 // Problem link : https://leetcode.com/problems/maximum-depth-of-binary-tree
-
-class TreeNode(var `val`: Int) {
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-}
 
 fun main() {
     val solution = Solution()

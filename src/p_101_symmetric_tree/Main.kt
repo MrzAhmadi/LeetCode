@@ -1,11 +1,8 @@
 package p_101_symmetric_tree
 
-// Problem link : https://leetcode.com/problems/symmetric-tree
+import TreeNode
 
-class TreeNode(var `val`: Int) {
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-}
+// Problem link : https://leetcode.com/problems/symmetric-tree
 
 fun main() {
     val solution = Solution()

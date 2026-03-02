@@ -1,11 +1,8 @@
 package p_226_invert_binary_tree
 
-// Problem link : https://leetcode.com/problems/invert-binary-tree
+import TreeNode
 
-class TreeNode(var `val`: Int) {
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-}
+// Problem link : https://leetcode.com/problems/invert-binary-tree
 
 fun main() {
     val solution = Solution()

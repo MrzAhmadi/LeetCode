@@ -1,11 +1,8 @@
 package p_112_path_sum
 
-// Problem link : https://leetcode.com/problems/path-sum
+import TreeNode
 
-class TreeNode(var `val`: Int) {
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-}
+// Problem link : https://leetcode.com/problems/path-sum
 
 fun main() {
     val solution = Solution()

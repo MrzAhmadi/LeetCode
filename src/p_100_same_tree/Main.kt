@@ -1,11 +1,8 @@
 package p_100_same_tree
 
-// Problem link : https://leetcode.com/problems/same-tree
+import TreeNode
 
-class TreeNode(var `val`: Int) {
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-}
+// Problem link : https://leetcode.com/problems/same-tree
 
 fun main() {
     val solution = Solution()
