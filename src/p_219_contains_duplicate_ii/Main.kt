@@ -1,4 +1,4 @@
-package p_219_contains_duplicate_II
+package p_219_contains_duplicate_ii
 
 // Problem link : https://leetcode.com/problems/contains-duplicate-ii/
 
