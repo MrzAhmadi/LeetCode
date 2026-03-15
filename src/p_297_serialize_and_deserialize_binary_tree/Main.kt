@@ -1,6 +1,6 @@
 package p_297_serialize_and_deserialize_binary_tree
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 

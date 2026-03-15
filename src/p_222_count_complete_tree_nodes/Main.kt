@@ -1,6 +1,6 @@
 package p_222_count_complete_tree_nodes
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/count-complete-tree-nodes
 

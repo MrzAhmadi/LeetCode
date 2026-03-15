@@ -1,6 +1,6 @@
 package p_112_path_sum
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/path-sum
 

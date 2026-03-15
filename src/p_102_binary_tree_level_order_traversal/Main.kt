@@ -1,6 +1,6 @@
 package p_102_binary_tree_level_order_traversal
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/binary-tree-level-order-traversal
 

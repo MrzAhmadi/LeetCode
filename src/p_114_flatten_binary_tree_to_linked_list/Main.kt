@@ -1,6 +1,6 @@
 package p_114_flatten_binary_tree_to_linked_list
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/flatten-binary-tree-to-linked-list
 

@@ -1,6 +1,6 @@
 package p_105_construct_binary_tree_from_preorder_and_inorder_traversal
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 

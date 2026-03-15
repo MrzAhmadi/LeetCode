@@ -1,6 +1,6 @@
 package p_637_average_of_levels_in_binary_tree
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/average-of-levels-in-binary-tree
 

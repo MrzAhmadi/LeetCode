@@ -1,6 +1,6 @@
 package p_199_binary_tree_right_side_view
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/binary-tree-right-side-view
 

@@ -1,7 +1,7 @@
 package p_133_clone_graph
 
-import Node
-import Node.Companion.buildGraph
+import model.Node
+import model.Node.Companion.buildGraph
 
 // Problem link : https://leetcode.com/problems/clone-graph
 

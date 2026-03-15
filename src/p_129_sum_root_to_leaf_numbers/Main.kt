@@ -1,6 +1,6 @@
 package p_129_sum_root_to_leaf_numbers
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/sum-root-to-leaf-numbers/description
 

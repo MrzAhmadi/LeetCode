@@ -1,6 +1,6 @@
 package p_100_same_tree
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/same-tree
 

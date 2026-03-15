@@ -1,6 +1,6 @@
 package p_226_invert_binary_tree
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/invert-binary-tree
 

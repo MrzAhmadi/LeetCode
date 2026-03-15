@@ -1,6 +1,6 @@
 package p_101_symmetric_tree
 
-import TreeNode
+import model.TreeNode
 
 // Problem link : https://leetcode.com/problems/symmetric-tree
 

@@ -1,6 +1,6 @@
 package p_104_maximum_depth_of_binary_tree
 
-import TreeNode
+import model.TreeNode
 import kotlin.math.max
 
 // Problem link : https://leetcode.com/problems/maximum-depth-of-binary-tree

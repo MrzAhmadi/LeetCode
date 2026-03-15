@@ -1,6 +1,6 @@
 package p_103_binary_tree_zigzag_level_order_traversal
 
-import TreeNode
+import model.TreeNode
 import java.util.LinkedList
 
 // Problem link : https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
